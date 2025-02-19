@@ -24,8 +24,8 @@ I'm currently working on a **sales forecasting and optimization** project, lever
 
 <div align="center">
   <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=vmrmuhvmedd&theme=radical&hide_border=false&include_all_commits=true&count_private=false"/> 
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmrmuhvmedd&theme=radical&hide_border=false"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=vmrmuhvmedd&theme=radical&hide_border=false&include_all_commits=true&count_private=false"/> 
   </div>
   <div>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmrmuhvmedd&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
