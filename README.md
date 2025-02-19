@@ -23,12 +23,12 @@ I'm currently working on a **sales forecasting and optimization** project, lever
 # 📊 GitHub Stats:
 
 <div align="center">
-  <div display: flex; gap: 5px;>
+  <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=vmrmuhvmedd&theme=radical&hide_border=false&include_all_commits=true&count_private=false"/> 
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmrmuhvmedd&theme=radical&hide_border=false"/>
   </div>
   <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmrmuhvmedd&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmrmuhvmedd&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
   </div>
 </div>
 
